@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
- * main - This program print different types of computer types 
+ * main - The main function of the program
  *
- * Return: 0 when success
+ * Return: return 0 if successfull
  */
 
 int main(void)
